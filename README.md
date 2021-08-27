@@ -2,7 +2,7 @@
 
 # Welcome 
 <p align="center">
-  <a href="resources/kkryptonix.md">
+  <a href="resources/kryptonix.md">
     <img src="resources/pictures/vulnhub.kryptic.jpeg">
   </a>
 </p>
